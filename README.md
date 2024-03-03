@@ -1,4 +1,4 @@
-# PBL_2023-2024
+# 4-leg spider Robot for PBL 2023-2024
 
 International collaborative Problem-based learning 2023 - 2024 in collaboration with King Mongkut's University of Technology North Bangkok and Kyshu Insititute of Technology starting period from October 2023 until February 2024.
 Scholarship of SAKURA SCIENCE exchange program administered by Japan Science and Technology Agency.
